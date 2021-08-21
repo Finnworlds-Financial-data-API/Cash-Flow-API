@@ -1,5 +1,5 @@
 
-<h1>Balance Sheet API - Finnworlds</h1>
+<h1>Cash Flow API - Finnworlds</h1>
 
 <p><a href="https://finnworlds.com/finance-data/cash-flow-api/">The Cash Flow API</a> is available through JSON REST API and our databases are also downloadable as an excel or csv file.  We have historical cash flow statements in our database from the IPO of all publicly traded companies. Through our API you can request individual components of the cash flow reports over the history of a company, or you can request the entire cashflow based on ticker symbol or ISIN number of a company. The API is very intuitive and easy to use</p>
 
